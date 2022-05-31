@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ai-azuki/static/css/main.fca315f3.css",
-    "main.js": "/ai-azuki/static/js/main.3979d773.js",
-    "static/js/787.d54456cf.chunk.js": "/ai-azuki/static/js/787.d54456cf.chunk.js",
+    "main.css": "/ai-azuki/static/css/main.073c9b0a.css",
+    "main.js": "/ai-azuki/static/js/main.5ef17b15.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ai-azuki/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/ai-azuki/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ai-azuki/index.html",
-    "main.fca315f3.css.map": "/ai-azuki/static/css/main.fca315f3.css.map",
-    "main.3979d773.js.map": "/ai-azuki/static/js/main.3979d773.js.map",
-    "787.d54456cf.chunk.js.map": "/ai-azuki/static/js/787.d54456cf.chunk.js.map"
+    "main.073c9b0a.css.map": "/ai-azuki/static/css/main.073c9b0a.css.map",
+    "main.5ef17b15.js.map": "/ai-azuki/static/js/main.5ef17b15.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ai-azuki/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fca315f3.css",
-    "static/js/main.3979d773.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5ef17b15.js"
   ]
 }
